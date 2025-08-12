@@ -3,6 +3,8 @@
 A Python script to retrieve a list of **root domains** based on specific extensions (`.id`, `.co.id`, `.ac.id`, etc.) from the **Archive.org CDX API**.
 
 [Readme_ID.md](https://github.com/bimantaraz/domain-grabber/blob/main/README_ID.md)
+<img width="1059" height="586" alt="image" src="https://github.com/user-attachments/assets/4b818a2e-4787-49cd-bc61-a03cb1002af8" />
+
 ## ✨ Features
 
 * Fetch domain lists from [web.archive.org CDX API](https://archive.org/help/wayback_api.php).
